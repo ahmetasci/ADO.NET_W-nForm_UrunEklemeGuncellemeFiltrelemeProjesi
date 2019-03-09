@@ -1,0 +1,28 @@
+C:\Users\Section2\source\repos\UrunEklemeGuncelleme\UrunEklemeGuncelleme\bin\Debug\UrunEklemeGuncelleme.exe.config
+C:\Users\Section2\source\repos\UrunEklemeGuncelleme\UrunEklemeGuncelleme\bin\Debug\UrunEklemeGuncelleme.exe
+C:\Users\Section2\source\repos\UrunEklemeGuncelleme\UrunEklemeGuncelleme\bin\Debug\UrunEklemeGuncelleme.pdb
+C:\Users\Section2\source\repos\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.Form1.resources
+C:\Users\Section2\source\repos\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.Properties.Resources.resources
+C:\Users\Section2\source\repos\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.exe
+C:\Users\Section2\source\repos\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.pdb
+C:\Users\AHMET\Desktop\UrunEklemeGuncelleme\UrunEklemeGuncelleme\bin\Debug\UrunEklemeGuncelleme.exe.config
+C:\Users\AHMET\Desktop\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.exe
+C:\Users\AHMET\Desktop\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.pdb
+C:\Users\AHMET\Desktop\UrunEklemeGuncelleme\UrunEklemeGuncelleme\bin\Debug\UrunEklemeGuncelleme.exe
+C:\Users\AHMET\Desktop\UrunEklemeGuncelleme\UrunEklemeGuncelleme\bin\Debug\UrunEklemeGuncelleme.pdb
+C:\Users\AHMET\Desktop\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.Form1.resources
+C:\Users\AHMET\Desktop\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.Properties.Resources.resources
+C:\Users\AHMET\Desktop\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.csproj.GenerateResource.Cache
+C:\Users\AHMET\Desktop\UrunEklemeGuncelleme\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunEklemeGuncelleme(ÖNEMLİ)\UrunEklemeGuncelleme\bin\Debug\UrunEklemeGuncelleme.exe.config
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunEklemeGuncelleme(ÖNEMLİ)\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunEklemeGuncelleme(ÖNEMLİ)\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunEklemeGuncelleme(ÖNEMLİ)\UrunEklemeGuncelleme\bin\Debug\UrunEklemeGuncelleme.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunEklemeGuncelleme(ÖNEMLİ)\UrunEklemeGuncelleme\bin\Debug\UrunEklemeGuncelleme.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunEklemeGuncelleme(ÖNEMLİ)\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunEklemeGuncelleme(ÖNEMLİ)\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.Form1.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunEklemeGuncelleme(ÖNEMLİ)\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.Properties.Resources.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\UrunEklemeGuncelleme(ÖNEMLİ)\UrunEklemeGuncelleme\obj\Debug\UrunEklemeGuncelleme.csproj.GenerateResource.Cache
